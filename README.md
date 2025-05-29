@@ -12,7 +12,7 @@ A short description of your project and what it does.
 3. Follow the instructions
 
 ## Link to Canva Document
-[View the design on Canva](https://www.canva.com/design/https://www.canva.com/design/DAFpu95cYeM/t8bk5ujS7bwISpWLrt0sbQ/edit?utm_content=DAFpu95cYeM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[View the design on Canva](https://www.canva.com/design/DAFpu95cYeM/t8bk5ujS7bwISpWLrt0sbQ/edit?utm_content=DAFpu95cYeM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## License
 MIT
